@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Gopika  
 
-<!--
-**gopikamadhup/gopikamadhup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 **Computer Science and Business System Student | Frontend Developer Enthusiast**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about building **responsive web applications** and learning new technologies that make the web beautiful and functional.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Pursuing **B.Tech in Computer Science and Business Systems (CSBS)**  
+- 💻 Enthusiastic about **Frontend Development** and **UI/UX Design**  
+- 🔧 Experienced in ** JavaScript, HTML, CSS,React.js**  
+- 🌱 Currently learning **API Integration** and **React Native**    
+- 💡 Love solving problems and building user-friendly applications 
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Material UI, TailwindCSS  
+- **Backend (Basics):** Node.js, Express.js  
+- **Database:** MySQL, PostgreSQL (basics)  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+
+
