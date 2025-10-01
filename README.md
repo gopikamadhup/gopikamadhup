@@ -23,4 +23,6 @@ I’m passionate about building **responsive web applications** and learning new
 - **Tools:** Git, GitHub, Postman, VS Code  
 
 
+![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopikamadhup&show_icons=true&theme=radical)
+
 
