@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Gopika  <br><br>🌸 **CSBS Student | Frontend Developer Enthusiast**  <br><br>Welcome to my GitHub profile!  <br>I’m passionate about building **responsive web applications** and learning new technologies that make the web beautiful and functional.  <br><br>---<br><br>About Me<br>- 🎓 Pursuing **B.Tech in Computer Science and Business Systems (CSBS)**  <br>- 💻 Enthusiastic about **Frontend Development** and **UI/UX Design**  <br>- 🔧 Experienced in **React.js, JavaScript, HTML, CSS**  <br>- 🌱 Currently learning **API Integration** and **React Native**  <br>- 💡 Love solving problems and building user-friendly applications
+I'm Gopika  <br><br>🌸 **CSBS Student | Frontend Developer Enthusiast**  <br><br>Welcome to my GitHub profile!  <br>I’m passionate about building **responsive web applications** and learning new technologies that make the web beautiful and functional.  <br><br>---<br><br>About Me<br> 🎓 Pursuing **B.Tech in Computer Science and Business Systems (CSBS)**  <br>💻 Enthusiastic about **Frontend Development** and **UI/UX Design**  <br> 🔧 Experienced in **React.js, JavaScript, HTML, CSS**  <br>🌱 Currently learning **API Integration** and **React Native**  <br> 💡 Love solving problems and building user-friendly applications
 
 
 ## 🌐 Socials:
